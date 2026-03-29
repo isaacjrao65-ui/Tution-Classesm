@@ -1,0 +1,11 @@
+
+> tuition-website@0.1.0 dev
+> next dev --port 3005
+
+▲ Next.js 16.2.1 (Turbopack)
+- Local:         http://localhost:3005
+- Network:       http://192.168.1.9:3005
+- Environments: .env.local
+✓ Ready in 693ms
+
+ POST /api/auth/login 500 in 419ms (next.js: 335ms, application-code: 84ms)
